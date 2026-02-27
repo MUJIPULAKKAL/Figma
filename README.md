@@ -1,2 +1,0 @@
-# Figma
-Roller Blind Calculator
